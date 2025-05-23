@@ -13,7 +13,7 @@
 ##  About Me
 
 <div align="center">
-  <img src="https://imgur.com/XzCquRt" width="400" alt="Coding GIF" />
+  <img src="https://imgur.com/XzCquRt.gif" width="400" alt="Coding GIF" />
 </div>
 
 ```typescript
