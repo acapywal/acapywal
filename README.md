@@ -81,16 +81,16 @@ const waldev: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waldev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acapywal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acapywal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waldev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acapywal&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waldev&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acapywal&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 ---
@@ -103,8 +103,8 @@ const waldev: Developer = {
       <td width="50%">
         <h3 align="center">🌟 Project Spotlight</h3>
         <div align="center">  
-          <a href="https://github.com/waldev/awesome-project" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=waldev&repo=awesome-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Awesome Project" />
+          <a href="https://github.com/acapywal/awesome-project" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=acapywal&repo=awesome-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Awesome Project" />
           </a>
           <br>
           <p><strong>⚛️ React • 🟢 Node.js • 🍃 MongoDB</strong></p>
@@ -114,8 +114,8 @@ const waldev: Developer = {
       <td width="50%">
         <h3 align="center">🔥 Innovation Hub</h3>
         <div align="center">
-          <a href="https://github.com/waldev/innovation-hub" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=waldev&repo=innovation-hub&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Innovation Hub" />
+          <a href="https://github.com/acapywal/innovation-hub" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=acapywal&repo=innovation-hub&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Innovation Hub" />
           </a>
           <br>
           <p><strong>🐍 Python • ⚡ FastAPI • 🐘 PostgreSQL</strong></p>
@@ -169,9 +169,9 @@ const waldev: Developer = {
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <br><br>
   
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/waldev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waldev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://waldev.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/acapywal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/acapywal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://acapywal.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
@@ -183,7 +183,7 @@ const waldev: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=waldev&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=acapywal&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+like+my+work!;Made+with+❤️+in+Ciudad+de+México+🇲🇽;Always+open+to+interesting+conversations+and+collaborations!" alt="Footer" />
 </div>
