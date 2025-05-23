@@ -41,9 +41,7 @@ const waldev = {
   <img src="https://github-readme-stats.vercel.app/api?username=waldev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="WalDev's GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waldev&theme=tokyonight&hide_border=true" alt="WalDev's GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AcaWalDev&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldev&layout=compact&theme=tokyonight&hide_border=true" alt="WalDev's Top Languages" />
