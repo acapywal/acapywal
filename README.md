@@ -1,7 +1,7 @@
-#  Hey there! I'm WalDev
+#  Hey there! I'm PyWalDev
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=WalDev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20from%20CDMX&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PyWalDev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20from%20CDMX&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
@@ -26,16 +26,16 @@ interface Developer {
   lifePhilosophy: string;
 }
 
-const waldev: Developer = {
-  name: "WalDev",
+const pywaldev: Developer = {
+  name: "PyWalDev",
   location: "🏙️ Ciudad de México, México",
   languages: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
   specialties: [
-    "⚛️ React & Next.js Ecosystem",
-    "🌐 Node.js & Express",
-    "📱 Mobile Development",
-    "☁️ Cloud Architecture",
-    "🎨 UI/UX Implementation"
+    " React & Next.js Ecosystem",
+    " Node.js & Express",
+    " Mobile Development",
+    " Cloud Architecture",
+    " UI/UX Implementation"
   ],
   currentStatus: "Building the next big thing... 🚀",
   lifePhilosophy: "Code with passion, debug with patience ☕"
